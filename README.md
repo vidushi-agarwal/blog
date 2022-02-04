@@ -1,5 +1,5 @@
 This is using static site generator
-refer [this] (https://www.youtube.com/watch?v=c9g4UkHkzLs&ab_channel=Stackbit) video: for choosing your static site generator
+refer [this](https://www.youtube.com/watch?v=c9g4UkHkzLs&ab_channel=Stackbit) video: for choosing your static site generator
 Popular options for static site generator
 
 - Beginner's in Jamstack

@@ -157,6 +157,12 @@ disableHugoGeneratorInject = false
     alt      = "Portrait"
     maxWidth = "120px"
 
+  [params.cover]
+    path    = "/img/credit-card.jpeg"
+    caption     = "Portrait"
+    maxWidth = "120px"
+
+
   # Social icons
   [[params.social]]
     name = "twitter"

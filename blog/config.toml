@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://agvidushi.github.io/"
 title   = "vidushiag"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "This is Vidushi"
+  homeSubtitle = "This is one Liner quirky bio abt Vidushi"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -157,10 +157,10 @@ disableHugoGeneratorInject = false
     alt      = "Portrait"
     maxWidth = "120px"
 
-  [params.cover]
-    path    = "/img/credit-card.jpeg"
-    caption     = "Portrait"
-    maxWidth = "120px"
+  # [params.cover]
+  #   path    = "/img/shimla.jpg"
+  #   caption     = "Portrait"
+  #   maxWidth = "120px"
 
 
   # Social icons
@@ -203,7 +203,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://drive.google.com/file/d/19yUbzwgYWy9eXUGm8fx_975qir6FOLEd/view?usp=sharing"
+    url        = "https://drive.google.com/file/d/1WJtzAjvBYyeaZ3DJGFGwJmBbXwoyxOPX/view?usp=sharing"
   # [[menu.main]]
   #   identifier = "work"
   #   name       = "Work"

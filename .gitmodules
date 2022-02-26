@@ -1,4 +1,4 @@
 [submodule "blog/public"]
 	path = blog/public
-	url = git@github.com:vidushi-agarwal/vidushiag.github.io.git
+	url = git@github.com:agvidushi/agvidushi.github.io.git
 	branch = main
